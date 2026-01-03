@@ -1,0 +1,7 @@
+
+{
+  "appId": "com.keralancc.academy",
+  "appName": "Kerala NCC Academy",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

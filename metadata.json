@@ -1,0 +1,8 @@
+
+{
+  "name": "Kerala NCC Cadet Academy",
+  "description": "A comprehensive study platform for NCC cadets in Kerala preparing for Certificate A, B, and C examinations. Features interactive topics, AI-powered mock quizzes, and an administrative panel for video curation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
